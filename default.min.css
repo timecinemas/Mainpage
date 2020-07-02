@@ -1017,6 +1017,9 @@ body section.reservation-cancellation {
 body section.schedule table tbody tr:nth-of-type(odd) a {
     color: #edc449 !important;
 }
+body section.schedule table tbody tr:nth-of-type(odd) td {
+    color: #edc449 !important;
+}
 .footer-col p.lead{font-size: 18px !important;}
 .inverted-color a {
     color: #edc449 !important;
