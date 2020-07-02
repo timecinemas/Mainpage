@@ -1011,12 +1011,12 @@ body section.reservation-cancellation {
     color: #edc449 !important;
     font-size: 16px !important;
 }
+.footer-col p.lead{font-size: 18px !important;}
 .inverted-color a {
     color: #edc449 !important;
     font-size: 16px !important;
 }
 body .show-time-list a {
-    color: #edc449 !important;
     font-size: 12px !important;
 }
 body section.schedule table tbody tr:nth-of-type(even) a {
@@ -1054,4 +1054,5 @@ body .show-time-list h3 {
 body .show-time-list h5 {
     color: #edc449 !important;
 }
+
 /*# sourceMappingURL=default.min.css.map */
