@@ -1064,5 +1064,7 @@ body .show-time-list h3 {
 body .show-time-list h5 {
     color: #edc449 !important;
 }
+background: rgba(0, 0, 0, 0.8);
+    color: #fff;
 
 /*# sourceMappingURL=default.min.css.map */
