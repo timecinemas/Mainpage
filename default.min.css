@@ -1027,7 +1027,7 @@ body section.schedule table tbody tr:nth-of-type(odd) td {
     font-size: 16px !important;
 }
 body .show-time-list a {
-    font-size: 16px !important;
+    font-size: 12px !important;
 }
 body section.schedule table tbody tr:nth-of-type(even) a {
     color: #edc449 !important;
