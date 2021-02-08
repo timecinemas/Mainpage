@@ -721,14 +721,14 @@ body section.reservation-cancellation {
 @media (max-width:767px) and (orientation:landscape) {
     .movies-premieres .movie-frame img,
     .movies-playingnow .movie-frame img {
-        max-height: 455px
+        max-height: 425px
     }
 }
 
 @media (max-width:767px) and (orientation:portrait) {
     .movies-premieres .movie-frame img,
     .movies-playingnow .movie-frame img {
-        max-height: 236px
+        max-height: 206px
     }
 }
 
