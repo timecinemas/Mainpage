@@ -825,11 +825,11 @@ body section.reservation-cancellation {
     }
     .movies-premieres .movie-frame,
     .movies-playingnow .movie-frame {
-        min-height: 260px !important
+        min-height: 390px !important
     }
     .movies-premieres .movie-frame img,
     .movies-playingnow .movie-frame img {
-        max-height: 260px
+        max-height: 330px
     }
     .movies-comingsoon .movie-frame {
         min-height: 260px !important
